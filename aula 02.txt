@@ -1,4 +1,4 @@
-1)
+1
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -9,7 +9,17 @@
 	</body>
 </html>
 
-2)
+2
+<!DOCTYPE HTML>
+<html lang="pt-BR">
+	<head>
+		<meta charset="UTF-8">
+		<title> </title>
+	<head>
+	<body>
+	</body>
+<html>
+3
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -20,16 +30,7 @@
 	</body>
 <html>
 3)
-<!DOCTYPE HTML>
-<html lang="pt-BR">
-	<head>
-		<meta charset="UTF-8">
-		<title> </title>
-	<head>
-	<body>
-	</body>
-<html>
-3)
+
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -40,6 +41,7 @@
 	</body>
 <html>
 4)
+
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -59,7 +61,7 @@
 	<body>
 	</body>
 <html>
-6)
+6
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -69,7 +71,7 @@
 	<body>
 	</body>
 <html>
-7)
+7
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -79,7 +81,7 @@
 	<body>
 	</body>
 <html>
-8)
+8
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -89,7 +91,7 @@
 	<body>
 	</body>
 <html>
-9)
+9
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
@@ -99,7 +101,7 @@
 	<body>
 	</body>
 <html>
-10)
+10
 <!DOCTYPE HTML>
 <html lang="pt-BR">
 	<head>
